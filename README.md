@@ -2,7 +2,7 @@
 
 Welcome to AIM-Schedule!
 
-[React DOC](https://reactjs.org/docs/getting-started.html "React DOC")
+React 공식 Document는 [여기를 클릭](https://reactjs.org/docs/getting-started.html "React DOC")
 
 다음 들을 강의: 10. React Practice > 2-1
 
