@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhee519/AIM-Korea.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rhee519/AIM-Korea/issues"
+  },
+  "homepage": "https://github.com/rhee519/AIM-Korea#readme"
 }
